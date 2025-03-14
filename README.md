@@ -35,7 +35,7 @@ python-project/
 
 A Python script that monitors CPU and memory usage at intervals and logs the data for analysis.  
 
-### ** How to Run:**  
+### **How to Run:**  
 1. Navigate to the project directory:  
    ```bash
    cd system-monitoring
@@ -57,7 +57,7 @@ A Python script that monitors CPU and memory usage at intervals and logs the dat
 
 Fetches live weather details for multiple cities using OpenWeatherMap API.  
 
-### ** How to Run:**  
+### **How to Run:**  
 1. Get an API key from [OpenWeatherMap](https://openweathermap.org/).  
 2. Create a `.env` file and store your API key:  
    ```
