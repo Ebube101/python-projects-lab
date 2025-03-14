@@ -1,0 +1,9 @@
+2024-03-11 10:00:00 INFO Application started
+2024-03-11 10:05:23 WARNING Disk space running low
+2024-03-11 10:10:45 ERROR Failed to connect to database
+2024-03-11 10:15:32 INFO User login successful
+2024-03-11 10:20:01 ERROR Unable to read configuration file
+2024-03-11 10:25:17 WARNING High memory usage detected
+2024-03-11 10:30:22 ERROR Server timeout occurred
+2024-03-11 10:35:40 INFO Scheduled job completed
+2024-03-11 10:40:05 ERROR Authentication failure

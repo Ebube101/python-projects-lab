@@ -1,0 +1,4 @@
+Weather in lagos: Temperature: 28.63°C | Condition: overcast clouds | Humidity: 79%
+Weather in benin: Temperature: 29.84°C | Condition: overcast clouds | Humidity: 46%
+Weather in texas: Temperature: 27.58°C | Condition: broken clouds | Humidity: 14%
+Weather in owerri: Temperature: 28.23°C | Condition: overcast clouds | Humidity: 73%
